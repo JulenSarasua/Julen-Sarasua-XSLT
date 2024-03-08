@@ -16,9 +16,9 @@
             <body>
                 <header>
                     <img src="../img/logotipo.png" alt="Reservas" />
-                    <a href="tienda.xsl">Tienda</a>
-                    <a href="equipos.xsl">Equipos</a>
-                    <a href="partidos.xsl">Partidos</a>
+                    <a href="tienda.xml">Tienda</a>
+                    <a href="equipos.xml">Equipos</a>
+                    <a href="partidos.xml">Partidos</a>
                 </header>
 
                 <main>
